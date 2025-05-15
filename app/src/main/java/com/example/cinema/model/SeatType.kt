@@ -1,4 +1,4 @@
-package com.example.cinema.network.model
+package com.example.cinema.model
 
 data class SeatType(
     val ticket_id: Int,

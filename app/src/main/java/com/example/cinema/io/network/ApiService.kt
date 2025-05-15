@@ -1,6 +1,6 @@
-package com.example.cinema.network
+package com.example.cinema.io.database.network
 
-import com.example.cinema.network.model.SeatResponse
+import com.example.cinema.model.SeatResponse
 import retrofit2.http.GET
 
 interface ApiService {

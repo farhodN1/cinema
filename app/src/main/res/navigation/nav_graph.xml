@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@+id/fragment_scheme"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/fragment_scheme"
+        android:name="com.example.cinema.ui.cinemaScheme.CinemaSchemeFragment"
+        android:label="cinema scheme" />
+
+    <fragment
+        android:id="@+id/fragment_history"
+        android:name="com.example.cinema.ui.history.HistoryFragment"
+        android:label="fragment history" />
+
+</navigation>

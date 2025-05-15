@@ -1,4 +1,4 @@
-package com.example.cinema.network.model
+package com.example.cinema.model
 
 data class SeatResponse (
     val session_date: String,

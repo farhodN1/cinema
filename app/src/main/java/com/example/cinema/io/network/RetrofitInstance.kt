@@ -1,4 +1,4 @@
-package com.example.cinema.network
+package com.example.cinema.io.database.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
